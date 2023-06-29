@@ -1,0 +1,7 @@
+print('Greg\'s book.')
+print("'Greg's book.'")
+print('"Greg\'s book."')
+print("Greg\'s book.")
+print("'Greg's book.'")
+print(2)
+print("Greg's book.")
